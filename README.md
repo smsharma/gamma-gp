@@ -55,4 +55,4 @@ This code is associated with the paper:
 }
 ```
 
-The repository borrows data products and code from [NPTFit](https://arxiv.org/abs/1612.03173), and heavily relies on [Pyro](https://arxiv.org/abs/1810.09538), [GPyTorch](https://arxiv.org/abs/1809.11165), and [PyTorch](https://github.com/pytorch/pytorch/blob/master/CITATION).
+The repository borrows data products and code from [NPTFit](https://github.com/bsafdi/NPTFit) ([paper](https://arxiv.org/abs/1612.03173)), and heavily relies on [Pyro](https://arxiv.org/abs/1810.09538), [GPyTorch](https://arxiv.org/abs/1809.11165), and [PyTorch](https://github.com/pytorch/pytorch/blob/master/CITATION).
