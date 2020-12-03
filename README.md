@@ -15,7 +15,7 @@ Mismodeling the uncertain, diffuse emission of Galactic origin can seriously bia
 
 ### Dependencies
 
-The code dependencies are given in [environments.yml](environment.yml).
+The code dependencies are given in [environment.yml](environment.yml).
 
 ### Running experiments 
 
